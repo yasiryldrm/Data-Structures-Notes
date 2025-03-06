@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/6.iml" filepath="$PROJECT_DIR$/.idea/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaQueue1/JavaQueue1.iml" filepath="$PROJECT_DIR$/JavaQueue1/JavaQueue1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaQueue2/JavaQueue2.iml" filepath="$PROJECT_DIR$/JavaQueue2/JavaQueue2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStack1/JavaStack1.iml" filepath="$PROJECT_DIR$/JavaStack1/JavaStack1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStack2/JavaStack2.iml" filepath="$PROJECT_DIR$/JavaStack2/JavaStack2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStack3/JavaStack3.iml" filepath="$PROJECT_DIR$/JavaStack3/JavaStack3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParantezK/ParantezK.iml" filepath="$PROJECT_DIR$/ParantezK/ParantezK.iml" />
+    </modules>
+  </component>
+</project>
